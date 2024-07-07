@@ -64,7 +64,7 @@ This project involves creating a simple yet elegant HTML page designed to showca
 
 
 
-### Step 2: Enable Static Website Hosting
+### Step 3: Enable Static Website Hosting
 
 1. Make sure you're back in your bucket's page. 
 2. If you're not sure, choose Buckets on the left-hand side navigation bar, and then choose the bucket you created for this project.
@@ -113,7 +113,7 @@ This project involves creating a simple yet elegant HTML page designed to showca
 
 
 
-### Step 3: Write index.html file
+### Step 4: Write index.html file
 
 ![2024-06-19_08h46_44](https://github.com/MdShafiurRahman0/static-website-hosted-on-aws-S3-bucket/assets/113176437/3ec33b99-af7d-40a6-971f-4c10200673fb)
 
@@ -124,7 +124,7 @@ This project involves creating a simple yet elegant HTML page designed to showca
 
 
 
-### Step 4: Enable Public Access
+### Step 5: Enable Public Access
 
 
 ![2024-06-19_08h47_36](https://github.com/MdShafiurRahman0/static-website-hosted-on-aws-S3-bucket/assets/113176437/be9825cc-9e75-40ba-a5c4-fc22c433bca7)
@@ -141,7 +141,7 @@ This project involves creating a simple yet elegant HTML page designed to showca
 
 
 
-### Step 7: Website is hosted on S3 Successfully 
+### Step 6: Website is hosted on S3 Successfully 
 
 
 ![2024-07-07_17h25_21](https://github.com/MdShafiurRahman0/host-a-website-on-aws-S3/assets/113176437/3fa64177-40e3-4709-91ee-987d00de69c0)
@@ -164,5 +164,4 @@ Feel free to leave your thoughts and feedback in the comments. I'm looking forwa
 #WebDevelopment #HTML #CSS #AWS #AmazonS3 #CloudComputing #TechSkills #WebHosting #ProjectShowcase
 
 
-### Conclusion
-By following these steps, you have successfully deployed a serverless web application on AWS using IAM, DynamoDB, Lambda, SES, API Gateway, and S3. This architecture provides scalability, cost-effectiveness, and high availability, leveraging the power of AWS services.
+
