@@ -90,7 +90,10 @@ This project involves creating a simple yet elegant HTML page designed to showca
 
 
 
+
+
 1.Choose Make public.
+
 2.Once the green banner pops up, choose Close.
 
 ![2024-07-07_17h21_51](https://github.com/MdShafiurRahman0/host-a-website-on-aws-S3/assets/113176437/3ab23cb8-56da-4d77-8cc3-dcc40c051fa0)
@@ -126,22 +129,13 @@ This project involves creating a simple yet elegant HTML page designed to showca
 
 
 
-### Step 5: Write Bucket Policy
-
-![2024-06-19_08h52_50](https://github.com/MdShafiurRahman0/static-website-hosted-on-aws-S3-bucket/assets/113176437/702bf1ed-47c7-4137-8200-64f7bc39c890)
-
-
-
-### Step 6: Upload  main files
-
-![2024-06-19_09h06_42](https://github.com/MdShafiurRahman0/static-website-hosted-on-aws-S3-bucket/assets/113176437/7ef16da4-2d53-4be3-9730-4e249072a997)
 
 
 
 ### Step 7: Website is hosted on S3 Successfully 
 
-![image](https://github.com/MdShafiurRahman0/static-website-hosted-on-aws-S3-bucket/assets/113176437/02c4f22a-2902-458a-9108-9bd4726688d2)
 
+![2024-07-07_17h25_21](https://github.com/MdShafiurRahman0/host-a-website-on-aws-S3/assets/113176437/3fa64177-40e3-4709-91ee-987d00de69c0)
 
 
 ### What I Learned:
