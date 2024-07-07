@@ -47,17 +47,17 @@ This project involves creating a simple yet elegant HTML page designed to showca
 ### Step 2: Upload website content into your bucket
 
 1. Unzip the zip file you've downloaded.
-2. Return to the Amazon S3 console with your bucket page open. 
-3. Choose the Objects tab.
-4. Choose Upload.
-5. Choose Add files.
-6. Choose index.html.
-7. Choose Add folder.
-8. Choose the unzipped folder - NOT the zip file itself!
-9. You might get a popup that tells you that all files in that folder will be uploaded. 
-10. Choose Upload.
+3. Return to the Amazon S3 console with your bucket page open. 
+4. Choose the Objects tab.
+5. Choose Upload.
+6. Choose Add files.
+7. Choose index.html.
+8. Choose Add folder.
+9. Choose the unzipped folder - NOT the zip file itself!
+10. You might get a popup that tells you that all files in that folder will be uploaded. 
 11. Choose Upload.
-12. S3 will get to work right away!
+12. Choose Upload.
+13. S3 will get to work right away!
     
 ![2024-07-07_17h02_32](https://github.com/MdShafiurRahman0/host-a-website-on-aws-S3/assets/113176437/74e67f2e-14e0-49b1-ba57-6b748cb1b068)
 
@@ -93,14 +93,14 @@ This project involves creating a simple yet elegant HTML page designed to showca
 
 
 1.Choose Make public.
-
 2.Once the green banner pops up, choose Close.
+3.Return to the web browser tab that has the 403 Forbidden message.
+4.Refresh the tab.
 
 ![2024-07-07_17h21_51](https://github.com/MdShafiurRahman0/host-a-website-on-aws-S3/assets/113176437/3ab23cb8-56da-4d77-8cc3-dcc40c051fa0)
 
 
-3.Return to the web browser tab that has the 403 Forbidden message.
-4.Refresh the tab.
+
 
 ![2024-07-07_17h25_21](https://github.com/MdShafiurRahman0/host-a-website-on-aws-S3/assets/113176437/139c26e7-7991-4a37-986a-de2d5eed22a1)
 
