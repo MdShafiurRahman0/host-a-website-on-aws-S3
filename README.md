@@ -103,10 +103,13 @@ This project involves creating a simple yet elegant HTML page designed to showca
 
 
 
-1.Choose Make public.
-2.Once the green banner pops up, choose Close.
-3.Return to the web browser tab that has the 403 Forbidden message.
-4.Refresh the tab.
+1.Choose Make public
+
+2.Once the green banner pops up choose Close.
+
+3.Return to the web browser tab that has the 403 Forbidden message
+
+4.Refresh the tab
 
 
 
